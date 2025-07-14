@@ -203,6 +203,8 @@ backdrop-filter: blur( 4px );
   }
 img{
 	width:20%; 
+	max-width:150px;
+	min-width:100px;
 	position:absolute;
 	top:50px;
 }
