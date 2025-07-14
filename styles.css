@@ -201,7 +201,7 @@ backdrop-filter: blur( 4px );
               transform: rotate(360deg);
     }
   }
-section img{
+img{
 	width:20%; 
 	position:absolute;
 	top:50px;
