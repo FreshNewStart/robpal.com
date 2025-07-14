@@ -201,8 +201,10 @@ backdrop-filter: blur( 4px );
               transform: rotate(360deg);
     }
   }
-img{
-	max-width:150px;
+section img{
+	max-width:150px; 
+	position:absolute;
+	top:50px;
 }
 .content{
     color: aliceblue;
