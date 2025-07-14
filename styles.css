@@ -202,7 +202,7 @@ backdrop-filter: blur( 4px );
     }
   }
 section img{
-	max-width:150px; 
+	width:20%; 
 	position:absolute;
 	top:50px;
 }
