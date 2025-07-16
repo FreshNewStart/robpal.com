@@ -206,7 +206,7 @@ backdrop-filter: blur( 4px );
 }
 .content{
     color: aliceblue;
-    width: 30%;
+    width: 100%;
     aspect-ratio: 1;
     padding: 2rem;
     display: flex;
