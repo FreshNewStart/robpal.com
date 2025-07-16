@@ -176,8 +176,8 @@ section{
 	animation: rotate-center 3s linear infinite both;
     min-width: 200px;
     background: ffffff80;
-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-backdrop-filter: blur( 4px );
+box-shadow: 0 8px 32px 0 red;
+backdrop-filter: blur( 10px );
 -webkit-backdrop-filter: blur( 4px );
 }
 
