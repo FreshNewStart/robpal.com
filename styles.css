@@ -176,9 +176,9 @@ section{
 	animation: rotate-center 3s linear infinite both;
     min-width: 200px;
     background: ffffff80;
-box-shadow: 0 8px 32px 0 red;
+box-shadow: 0 0px 32px 0 goldenrod;
 backdrop-filter: blur( 10px );
--webkit-backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 10px );
 }
 
 @-webkit-keyframes rotate-center {
