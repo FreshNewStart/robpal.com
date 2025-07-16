@@ -164,8 +164,8 @@ section{
 
 }
 .spinner{
-    border-top: solid goldenrod 2px;
-    border-bottom: solid goldenrod 2px;
+    border-top: solid red 2px;
+    border-bottom: solid red 2px;
     border-left: solid transparent 2px;
     border-right: solid transparent 2px;
     width: 20%;
@@ -205,7 +205,7 @@ backdrop-filter: blur( 4px );
 	width: 90px;
 }
 .content{
-    color: aliceblue;
+    color: #00000090;
     width: 60%;
     aspect-ratio: 1;
     padding: 2rem;
@@ -231,5 +231,5 @@ backdrop-filter: blur( 4px );
 }
 span{
     font-size: .8rem;
-    color: goldenrod;
+    color: black;
 }
