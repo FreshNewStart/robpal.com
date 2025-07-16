@@ -201,7 +201,7 @@ backdrop-filter: blur( 4px );
               transform: rotate(360deg);
     }
   }
-img{
+.content img{
 	width:30%; 
 	position:fixed;
 	top:50px;
